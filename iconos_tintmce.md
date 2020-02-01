@@ -2,5 +2,5 @@
 Crear un font desde el sitio icomoon.io
 
 
-![Image of Yaktocat]('./icomoon.png')
+![icomoon generate](/icomoon.png)
 
